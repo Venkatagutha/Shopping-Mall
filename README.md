@@ -1,3 +1,4 @@
 # Shopping-Mall
-Using K-means clustering<br/>
-and Hierarchical clustering
+Using<br/>
+K-means clustering<br/>
+ Hierarchical clustering
